@@ -52,5 +52,5 @@ This script is provided **as is** without any warranty. Use it at your own risk.
 MIT License - Free to use and modify. Credit is appreciated.
 
 ## Author
-[Your Name]
+[[Your Name]](https://github.com/aviado1/)
 
